@@ -1,2 +1,2 @@
 Each of us edits this file by adding any sentence on a newline.
-eg: Edited by shahed
+Edited by shahed
